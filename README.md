@@ -16,12 +16,6 @@ This project implements a RESTful web service that fulfills the API contract des
 
 ---
 
-## API Specification
-
-This service strictly adheres to the provided `api.yml` specification. Please refer to the `api.yml` file shared in the challenge prompt for full endpoint and schema details.
-
----
-
 ## Dockerized Setup
 
 ### Prerequisites
